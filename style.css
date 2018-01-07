@@ -1,0 +1,23 @@
+.winner {
+	color: red;
+  border: 5px solid red;
+  padding: 0px 10px;
+  font-size: 65px;
+} 
+
+body {
+  text-align: center;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 20px;
+}
+
+p {
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 60px;
+}
